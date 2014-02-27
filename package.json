@@ -1,7 +1,7 @@
 {
   "name": "base-16-bright",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A conversion of the base-16-bright textmate theme",
   "repository": "https://github.com/RyanMacG/atom-base-16-bright",
