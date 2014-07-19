@@ -2,4 +2,4 @@
 
 Conversion of base-16-bright theme from textmate.
 
-![theme example](theme_example.png "Example of them for Ruby on Rails syntax")
+![theme example](https://raw.githubusercontent.com/RyanMacG/atom-base-16-bright/master/theme_example.png "Example of them for Ruby on Rails syntax")
